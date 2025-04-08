@@ -1,0 +1,15 @@
+1. Total Sales:
+Total Sales = SUM(Dim_Products[ProductsValue])
+
+2. Total Customers:
+Total Customers = COUNT(_Dataset[ID])
+
+3. Marketing_Response_Rate
+Marketing_Response_Rate = 
+    DIVIDE(SUM(_Dataset[Response]), COUNT(_Dataset[ID]), 0)
+
+4. Avg Customer Income
+Avg Customer Income = AVERAGE(_Dataset[ Income ])
+
+5. Campaign Response
+Campaign Response = SUM(Dim_Campaigns[CampaignsResponse])
