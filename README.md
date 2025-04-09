@@ -83,3 +83,7 @@
 •	- Customers: Age 45–65: 1,246 (55%), Age 25–35: 61 (2%)
 
 •	- Responses: Age 45–65: 318 (47%), Age 25–35: 31 (4%)
+
+
+
+https://github.com/user-attachments/assets/accd6331-a3f1-47ac-bc26-ff48dc143fe4
