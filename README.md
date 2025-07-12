@@ -1,6 +1,5 @@
-# Marketing-Campaign-Analysis-Dashboard
-
-📌 Analysis Steps:
+Analysis Steps:
+--
 
 •	Explored and understood the raw dataset to identify its structure and insights.
 
@@ -10,20 +9,22 @@
 
 •	Designed a dynamic Power BI dashboard for visualizing insights effectively.
 
-📌 Key Metrics:
+Key Metrics:
+--
 
-•	Total Sales: $1.36M
+📌 Total Sales: $1.36M
 
-•	Total Customers: 2,240
+📌 Total Customers: 2,240
 
-•	Marketing Response Rate: 14.91%
+📌 Marketing Response Rate: 14.91%
 
-•	Average Customer Income: $52.25K
+📌 Average Customer Income: $52.25K
 
-•	Total Campaign Responses: 667
+📌 Total Campaign Responses: 667
 
-📌 Key Insights:
 
+Key Insights:
+--
 🔹 Campaign Performance:
 
   - Campaign 4 had the highest response rate.
